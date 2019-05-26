@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 一个好记的博客 
 subtitle:
-description:
-keywords:
-author: John Doe
-language:
+description: 一个程序员的日常博客，记录技术与生活的点点滴滴
+keywords: Java, 后端开发, 分布式, 并发, 前端
+author: Levi Sha
+language: zh
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://haojima.top
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
