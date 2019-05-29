@@ -5,10 +5,10 @@
 # Site
 title: 一个好记的博客 
 subtitle:
-description: 一个程序员的日常博客，记录技术与生活的点点滴滴
+description: 一个程序员的日常博客，记录技术与生活的点滴
 keywords: Java, 后端开发, 分布式, 并发, 前端
 author: Levi Sha
-language: zh
+language: zh-Hans
 timezone:
 
 # URL
